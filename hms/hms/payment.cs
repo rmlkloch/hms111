@@ -164,7 +164,7 @@ namespace hms
             }
 
             // Step 03 - Connection string
-            string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\Payment.mdf"";Integrated Security=True";
+            string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms111\hms\hms\Payment.mdf"";Integrated Security=True";
 
             using (SqlConnection con = new SqlConnection(connectionString))
             {

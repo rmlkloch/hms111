@@ -134,7 +134,7 @@ namespace hms
                 }
 
                 // 3. Database Insert
-                using (SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\PatientReg DB.mdf"";Integrated Security=True"))
+                using (SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms111\hms\hms\PatientReg DB.mdf"";Integrated Security=True"))
                 {
                     string query = @"INSERT INTO PatientReg 
                             (NIC,PatientId, Name, DOB, Age, Gender, MaritalStatus, Address, Phone, Email, Height, Weight, Allergy, AllergyList)

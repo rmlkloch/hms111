@@ -67,7 +67,7 @@ namespace hms
 
             try
             {
-                using (SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\LogIn DB.mdf"";Integrated Security=True"))
+                using (SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms111\hms\hms\LogIn DB.mdf"";Integrated Security=True"))
                 {
                     conn.Open();
 

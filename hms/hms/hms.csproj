@@ -72,6 +72,30 @@
     <Compile Include="Doctor_login.Designer.cs">
       <DependentUpon>Doctor_login.cs</DependentUpon>
     </Compile>
+    <Compile Include="eme_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eme_dashboard.Designer.cs">
+      <DependentUpon>eme_dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eme_patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eme_patient.Designer.cs">
+      <DependentUpon>eme_patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eme_staff_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eme_staff_login.Designer.cs">
+      <DependentUpon>eme_staff_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eme_staff_reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eme_staff_reg.Designer.cs">
+      <DependentUpon>eme_staff_reg.cs</DependentUpon>
+    </Compile>
     <Compile Include="firstlogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -130,6 +154,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Doctor_login.resx">
       <DependentUpon>Doctor_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eme_dashboard.resx">
+      <DependentUpon>eme_dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eme_patient.resx">
+      <DependentUpon>eme_patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eme_staff_login.resx">
+      <DependentUpon>eme_staff_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eme_staff_reg.resx">
+      <DependentUpon>eme_staff_reg.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="firstlogin.resx">
       <DependentUpon>firstlogin.cs</DependentUpon>
@@ -200,6 +236,20 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Dignosis DB.mdf</DependentUpon>
     </Content>
+    <Content Include="eme_patient.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="eme_patient_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>eme_patient.mdf</DependentUpon>
+    </Content>
+    <Content Include="eme_staff.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="eme_staff_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>eme_staff.mdf</DependentUpon>
+    </Content>
     <Content Include="LogIn DB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -231,6 +281,7 @@
     <None Include="Resources\pngwing.com %283%29.png" />
     <None Include="Resources\pngwing.com %282%29.png" />
     <None Include="Resources\pngwing.com %2811%29.png" />
+    <None Include="Resources\pngwing.com %2812%29.png" />
     <Content Include="StaffReg DB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

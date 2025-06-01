@@ -122,7 +122,7 @@ namespace hms
         {
             // Step 01: Create the connection string to the SQL Server LocalDB database
             // NOTE: The database path is hardcoded. In a production environment, this should be configurable.
-            SqlConnection con1 = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\StaffReg DB.mdf"";Integrated Security=True");
+            SqlConnection con1 = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\user\Documents\# C #\hms111\hms\hms\StaffReg DB.mdf"";Integrated Security=True");
 
             // Step 02: Read input values from form controls
             string id = textBox1.Text.Trim();
