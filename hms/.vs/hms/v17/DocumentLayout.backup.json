@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|c:\\users\\user\\documents\\# c #\\hms_assignment-3\\hms\\hms\\staff registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\staff registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\staff registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\staff registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\patient_registration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\patient_registration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\patient_registration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\patient_registration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\nurse_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\nurse_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\nurse_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\nurse_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\doctor_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\doctor_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\doctor_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\doctor_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\diagnosisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\channeling form .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\channeling form .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\channeling form .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E7C7F0-2847-460A-88EB-FA96C5016CF0}|hms\\hms.csproj|solutionrelative:hms\\channeling form .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Program.cs",
+              "RelativeDocumentMoniker": "hms\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Program.cs",
+              "RelativeToolTip": "hms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:49:43.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "payment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs",
+              "RelativeDocumentMoniker": "hms\\payment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs",
+              "RelativeToolTip": "hms\\payment.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwKYAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:51:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs",
+              "RelativeDocumentMoniker": "hms\\payment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\payment.cs [Design]",
+              "RelativeToolTip": "hms\\payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:51:25.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Staff Registration.cs",
+              "RelativeDocumentMoniker": "hms\\Staff Registration.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Staff Registration.cs [Design]*",
+              "RelativeToolTip": "hms\\Staff Registration.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:02:59.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Staff Registration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Staff Registration.cs",
+              "RelativeDocumentMoniker": "hms\\Staff Registration.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Staff Registration.cs*",
+              "RelativeToolTip": "hms\\Staff Registration.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:05:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient_Registration .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Patient_Registration .cs",
+              "RelativeDocumentMoniker": "hms\\Patient_Registration .cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Patient_Registration .cs",
+              "RelativeToolTip": "hms\\Patient_Registration .cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAkwIgAAADYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:50:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient_Registration .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Patient_Registration .cs",
+              "RelativeDocumentMoniker": "hms\\Patient_Registration .cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Patient_Registration .cs [Design]",
+              "RelativeToolTip": "hms\\Patient_Registration .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:50:47.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nurse_Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Nurse_Login.cs",
+              "RelativeDocumentMoniker": "hms\\Nurse_Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Nurse_Login.cs",
+              "RelativeToolTip": "hms\\Nurse_Login.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEUAAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:50:35.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nurse_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Nurse_Login.cs",
+              "RelativeDocumentMoniker": "hms\\Nurse_Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Nurse_Login.cs [Design]",
+              "RelativeToolTip": "hms\\Nurse_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:50:33.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor_login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Doctor_login.cs",
+              "RelativeDocumentMoniker": "hms\\Doctor_login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Doctor_login.cs",
+              "RelativeToolTip": "hms\\Doctor_login.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEEAAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:49:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Doctor_login.cs",
+              "RelativeDocumentMoniker": "hms\\Doctor_login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Doctor_login.cs [Design]",
+              "RelativeToolTip": "hms\\Doctor_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:49:52.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiagnosisForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\DiagnosisForm.cs",
+              "RelativeDocumentMoniker": "hms\\DiagnosisForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\DiagnosisForm.cs",
+              "RelativeToolTip": "hms\\DiagnosisForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEUAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:48:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiagnosisForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\DiagnosisForm.cs",
+              "RelativeDocumentMoniker": "hms\\DiagnosisForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\DiagnosisForm.cs [Design]",
+              "RelativeToolTip": "hms\\DiagnosisForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:48:55.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Channeling Form .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Channeling Form .cs",
+              "RelativeDocumentMoniker": "hms\\Channeling Form .cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Channeling Form .cs",
+              "RelativeToolTip": "hms\\Channeling Form .cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv24AAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:47:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Channeling Form .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Channeling Form .cs",
+              "RelativeDocumentMoniker": "hms\\Channeling Form .cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\# C #\\hms_assignment-3\\hms\\hms\\Channeling Form .cs [Design]",
+              "RelativeToolTip": "hms\\Channeling Form .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:47:57.069Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

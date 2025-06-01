@@ -1,0 +1,30 @@
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Chanelling DB.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Chanelling DB_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Dignosis DB.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Dignosis DB_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\LogIn DB.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\LogIn DB_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\PatientReg DB.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\PatientReg DB_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Payment.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\Payment_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\StaffReg DB.mdf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\StaffReg DB_log.ldf
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\hms.exe.config
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\hms.exe
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\bin\Debug\hms.pdb
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.csproj.AssemblyReference.cache
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.Form3.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.DiagnosisForm.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.DoctorLogin.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.Form1.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.Form12.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.NurseLogin.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.paymentForm.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.Patient_Registration.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.Properties.Resources.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.staffsignin.resources
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.csproj.GenerateResource.cache
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.exe
+C:\Users\user\Documents\# C #\hms_assignment-3\hms\hms\obj\Debug\hms.pdb
